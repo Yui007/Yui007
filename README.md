@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning **Advanced TypeScript & Web Scraping**
 - 👯 I'm looking to collaborate on **Manga/Anime Related Projects**
 - 💬 Ask me about **Python, TypeScript, Manga Downloaders, Web Development**
-- 🎯 Check out my manga reading site: **[Manga-Plex](https://manga-plex.vercel.app/)**
+- 🎯 Check out my manga reading site: **[MangaKomi](https://manga-komi.vercel.app/)**
 - ⚡ Fun fact: **I love building tools that make manga reading easier!**
 
 ## 🛠️ Languages and Tools
@@ -67,9 +67,9 @@
 
 <div align="center">
   
-  ### 🚀 [Manga-Plex](https://manga-plex.vercel.app/) - Modern Manga Reading Platform
+  ### 🚀 [MangaKomi](https://manga-komi.vercel.app/) - Modern Manga Reading Platform
   
-  [![Visit Site](https://img.shields.io/badge/🌐_Visit_Site-FF6B6B?style=for-the-badge&logoColor=white)](https://manga-plex.vercel.app/)
+  [![Visit Site](https://img.shields.io/badge/🌐_Visit_Site-FF6B6B?style=for-the-badge&logoColor=white)](https://manga-komi.vercel.app/)
   
   *A beautiful and responsive manga reading experience built with modern web technologies*
   
@@ -100,7 +100,7 @@ const currentFocus = {
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Manga_Plex-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://manga-plex.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Manga_Plex-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://manga-komi.vercel.app/)
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yui007)
   
 </div>
