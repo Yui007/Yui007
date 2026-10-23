@@ -125,10 +125,14 @@ const currentFocus = {
 
 ## 🌟 Support My Work
 
-If you like my manga tools and projects, consider starring my repositories! ⭐
+If you like my manga tools and projects, consider supporting my work! Your support helps me maintain existing projects, improve features, and build new tools. Every bit of support is greatly appreciated. ❤️
 
 <div align="center">
   
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/xyui)
+
+  <br/><br/>
+
   [![Star WeebCentral](https://img.shields.io/github/stars/Yui007/weebcentral_downloader?style=social)](https://github.com/Yui007/weebcentral_downloader)
   [![Star Bato Downloader](https://img.shields.io/github/stars/Yui007/bato_downloader?style=social)](https://github.com/Yui007/bato_downloader)
   
